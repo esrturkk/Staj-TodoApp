@@ -1,0 +1,13 @@
+﻿@model TodoApp.WebMvc.Models.TodoListViewModel
+
+<h2>Silme Onayı</h2>
+
+<p>Bu listeyi silmek istediğinize emin misiniz?</p>
+<h4>@Model.Title</h4>
+<p>@Model.Description</p>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" name="id" value="@Model.Id" />
+    <button type="submit" class="btn btn-danger">Sil</button>
+    <a asp-action="Index" class="btn btn-secondary">İptal</a>
+</form>

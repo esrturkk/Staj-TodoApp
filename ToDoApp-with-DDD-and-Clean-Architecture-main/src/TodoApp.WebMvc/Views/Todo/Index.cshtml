@@ -1,0 +1,92 @@
+﻿@model List<TodoApp.WebMvc.Models.TodoViewModel>
+@{
+    var listId = ViewBag.TodoListId as Guid? ?? Guid.Empty;
+    ViewData["Title"] = "Görevler";
+}
+
+<h2 class="mb-4 text-center">Görevler</h2>
+
+<div class="d-flex justify-content-end mb-3">
+    <a class="btn btn-primary"
+       asp-controller="Todo"
+       asp-action="Create"
+       asp-route-todoListId="@listId">
+        Görev Ekle
+    </a>
+</div>
+
+<div class="table-responsive">
+    <table class="table table-bordered align-middle">
+        <thead class="table-light">
+            <tr>
+                <th>Başlık</th>
+                <th>Açıklama</th>
+                <th>Son Tarih</th>
+                <th>Durum</th>
+                <th>Oluşturulma</th>
+                <th>Güncellenme</th>
+                <th style="width:240px">İşlemler</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var todo in Model)
+            {
+                <tr>
+                    <td><strong>@todo.Title</strong></td>
+                    <td class="text-muted">@todo.Description</td>
+                    <td>@todo.DueDate?.ToShortDateString()</td>
+                    <td>
+                        @if (todo.IsCompleted)
+                        {
+                            <span class="badge bg-success">Tamamlandı</span>
+                        }
+                        else
+                        {
+                            <span class="badge bg-warning text-dark">Bekliyor</span>
+                        }
+                    </td>
+
+                    <!-- 0001-01-01 gibi default tarihleri gizle -->
+                    <td>@(todo.CreatedAt == default ? "-" : todo.CreatedAt.ToShortDateString())</td>
+                    <td>@(todo.UpdatedAt.HasValue? todo.UpdatedAt.Value.ToShortDateString() : "-")</td>
+
+                    <td>
+                        <div class="btn-group" role="group">
+                            @if (!todo.IsCompleted)
+                            {
+                                <form method="post" asp-action="MarkCompleted" class="d-inline">
+                                    <input type="hidden" name="id" value="@todo.Id" />
+                                    <input type="hidden" name="todoListId" value="@listId" />
+                                    <button class="btn btn-success btn-sm" title="Tamamla">✔</button>
+                                </form>
+                            }
+                            else
+                            {
+                                <form method="post" asp-action="UnmarkCompleted" class="d-inline">
+                                    <input type="hidden" name="id" value="@todo.Id" />
+                                    <input type="hidden" name="todoListId" value="@listId" />
+                                    <button class="btn btn-warning btn-sm" title="Geri Al">↺</button>
+                                </form>
+                            }
+
+                            <!-- Modal yerine Edit sayfasına git -->
+                            <a class="btn btn-secondary btn-sm"
+                               asp-action="Edit"
+                               asp-route-id="@todo.Id"
+                               asp-route-todoListId="@listId">
+                                Güncelle
+                            </a>
+
+                            <form method="post" asp-action="Delete" class="d-inline"
+                                  onsubmit="return confirm('Bu görevi silmek istiyor musunuz?');">
+                                <input type="hidden" name="id" value="@todo.Id" />
+                                <input type="hidden" name="todoListId" value="@listId" />
+                                <button class="btn btn-danger btn-sm" title="Sil">🗑</button>
+                            </form>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

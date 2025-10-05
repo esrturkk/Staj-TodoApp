@@ -1,0 +1,44 @@
+﻿@model List<TodoApp.WebMvc.Models.TodoListViewModel>
+
+@{
+    ViewData["Title"] = "Todo Listelerim";
+}
+
+<h2 class="mb-4">Todo Listeleri</h2>
+
+<a asp-action="Create" class="btn btn-success mb-3 float-end">Yeni Liste Ekle</a>
+
+
+<hr />
+
+<!-- Mevcut Listelerin Gösterimi -->
+<div class="row mt-4">
+    @if (Model != null && Model.Any())
+    {
+        foreach (var list in Model)
+        {
+            <div class="col-md-4 mb-3">
+                <div class="card shadow-sm">
+                    <div class="card-body">
+                        <h5 class="card-title">@list.Title</h5>
+                        <p class="card-text">@list.Description</p>
+                        <p class="card-text">Görev Sayısı: @(list.Todos?.Count ?? 0)</p>
+                        <p class="card-text">Oluşturulma: @list.CreatedAt.ToShortDateString()</p>
+                        <p class="card-text">Son Güncellenme: @(list.UpdatedAt == default ? "-" : list.UpdatedAt.ToShortDateString())</p>
+
+
+                        <a asp-controller="Todo" asp-action="Index" asp-route-todoListId="@list.Id" class="btn btn-primary btn-sm">
+                            Görevleri Gör
+                        </a>
+                        <a asp-action="Edit" asp-route-id="@list.Id" class="btn btn-warning btn-sm">Düzenle</a>
+                        <a asp-action="Delete" asp-route-id="@list.Id" class="btn btn-danger btn-sm">Sil</a>
+                    </div>
+                </div>
+            </div>
+        }
+    }
+    else
+    {
+        <p class="text-muted">Henüz bir todo listesi oluşturulmamış.</p>
+    }
+</div>

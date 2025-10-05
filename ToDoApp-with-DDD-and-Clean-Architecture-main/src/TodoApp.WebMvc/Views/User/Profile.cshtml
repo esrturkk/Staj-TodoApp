@@ -1,0 +1,66 @@
+﻿@model TodoApp.WebMvc.Models.UserViewModel
+@{
+    ViewData["Title"] = "Profil";
+    
+}
+
+<h2 class="mb-3">Profil</h2>
+
+@* @if (!string.IsNullOrEmpty(success))
+{
+    <div class="alert alert-success">@success</div>
+}
+@if (!string.IsNullOrEmpty(error))
+{
+    <div class="alert alert-danger">@error</div>
+} *@
+
+<div class="card mb-4">
+    <div class="card-body">
+        @* <div class="mb-2"><strong>Kullanıcı ID:</strong> @Model.Id</div> *@
+        <div class="mb-2"><strong>Kullanıcı Adı:</strong> @Model.Username</div>
+        <div class="mb-2"><strong>E-posta:</strong> @Model.Email</div>
+    </div>
+</div>
+
+<div class="row g-3">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">Kullanıcı Adını Güncelle</div>
+            <div class="card-body">
+                <form method="post" asp-action="UpdateUsername">
+                    <input type="hidden" name="id" value="@Model.Id" />
+                    <div class="mb-2">
+                        <input class="form-control" name="newUsername" placeholder="Yeni kullanıcı adı" required />
+                    </div>
+                    <button class="btn btn-secondary">Güncelle</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">E-posta Güncelle</div>
+            <div class="card-body">
+                <form method="post" asp-action="UpdateEmail">
+                    <input type="hidden" name="id" value="@Model.Id" />
+                    <div class="mb-2">
+                        <input class="form-control" type="email" name="newEmail" placeholder="Yeni e-posta" required />
+                    </div>
+                    <button class="btn btn-primary">Güncelle</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="card mt-4 border-danger">
+    <div class="card-header text-danger">Tehlikeli İşlem</div>
+    <div class="card-body">
+        <form method="post" asp-action="DeleteAccount" onsubmit="return confirm('Hesabınızı silmek istediğinize emin misiniz? Bu işlem geri alınamaz.');">
+            <input type="hidden" name="id" value="@Model.Id" />
+            <button class="btn btn-danger">Hesabı Sil</button>
+        </form>
+    </div>
+</div>

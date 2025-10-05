@@ -1,0 +1,1197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webmvc\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|solutionrelative:src\\todoapp.webmvc\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webmvc\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|solutionrelative:src\\todoapp.webmvc\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webmvc\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|solutionrelative:src\\todoapp.webmvc\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webmvc\\views\\todolist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|solutionrelative:src\\todoapp.webmvc\\views\\todolist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webmvc\\views\\todolist\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|solutionrelative:src\\todoapp.webmvc\\views\\todolist\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webmvc\\views\\todolist\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|solutionrelative:src\\todoapp.webmvc\\views\\todolist\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webmvc\\views\\todolist\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|solutionrelative:src\\todoapp.webmvc\\views\\todolist\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webmvc\\views\\todolist\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|solutionrelative:src\\todoapp.webmvc\\views\\todolist\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webmvc\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|solutionrelative:src\\todoapp.webmvc\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webmvc\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|solutionrelative:src\\todoapp.webmvc\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webmvc\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|solutionrelative:src\\todoapp.webmvc\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|solutionrelative:src\\todoapp.webmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webmvc\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|solutionrelative:src\\todoapp.webmvc\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webmvc\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|solutionrelative:src\\todoapp.webmvc\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|solutionrelative:src\\todoapp.webmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webmvc\\services\\userapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|solutionrelative:src\\todoapp.webmvc\\services\\userapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webmvc\\services\\todolistapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|solutionrelative:src\\todoapp.webmvc\\services\\todolistapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webmvc\\services\\todoapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|solutionrelative:src\\todoapp.webmvc\\services\\todoapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webmvc\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|solutionrelative:src\\todoapp.webmvc\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webmvc\\models\\updatetodoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|solutionrelative:src\\todoapp.webmvc\\models\\updatetodoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webmvc\\models\\updatetodolistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|solutionrelative:src\\todoapp.webmvc\\models\\updatetodolistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webmvc\\models\\todoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|solutionrelative:src\\todoapp.webmvc\\models\\todoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webmvc\\models\\todolistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|solutionrelative:src\\todoapp.webmvc\\models\\todolistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webmvc\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|solutionrelative:src\\todoapp.webmvc\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webmvc\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|solutionrelative:src\\todoapp.webmvc\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|solutionrelative:src\\todoapp.webmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webmvc\\models\\createtodoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|solutionrelative:src\\todoapp.webmvc\\models\\createtodoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webmvc\\models\\createtodolistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|solutionrelative:src\\todoapp.webmvc\\models\\createtodolistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|solutionrelative:src\\todoapp.webmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webmvc\\controllers\\todolistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|solutionrelative:src\\todoapp.webmvc\\controllers\\todolistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webmvc\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|solutionrelative:src\\todoapp.webmvc\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A21BB08-A90B-4BAF-871B-11DCB46E1C4C}|src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj|solutionrelative:src\\todoapp.webmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6BDEA3-9DD7-405E-BE06-F5CF919ABD30}|src\\TodoApp.WebApi\\TodoApp.WebApi.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6BDEA3-9DD7-405E-BE06-F5CF919ABD30}|src\\TodoApp.WebApi\\TodoApp.WebApi.csproj|solutionrelative:src\\todoapp.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6BDEA3-9DD7-405E-BE06-F5CF919ABD30}|src\\TodoApp.WebApi\\TodoApp.WebApi.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F6BDEA3-9DD7-405E-BE06-F5CF919ABD30}|src\\TodoApp.WebApi\\TodoApp.WebApi.csproj|solutionrelative:src\\todoapp.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6BDEA3-9DD7-405E-BE06-F5CF919ABD30}|src\\TodoApp.WebApi\\TodoApp.WebApi.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6BDEA3-9DD7-405E-BE06-F5CF919ABD30}|src\\TodoApp.WebApi\\TodoApp.WebApi.csproj|solutionrelative:src\\todoapp.webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6BDEA3-9DD7-405E-BE06-F5CF919ABD30}|src\\TodoApp.WebApi\\TodoApp.WebApi.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webapi\\controllers\\todolistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6BDEA3-9DD7-405E-BE06-F5CF919ABD30}|src\\TodoApp.WebApi\\TodoApp.WebApi.csproj|solutionrelative:src\\todoapp.webapi\\controllers\\todolistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6BDEA3-9DD7-405E-BE06-F5CF919ABD30}|src\\TodoApp.WebApi\\TodoApp.WebApi.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6BDEA3-9DD7-405E-BE06-F5CF919ABD30}|src\\TodoApp.WebApi\\TodoApp.WebApi.csproj|solutionrelative:src\\todoapp.webapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6BDEA3-9DD7-405E-BE06-F5CF919ABD30}|src\\TodoApp.WebApi\\TodoApp.WebApi.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F6BDEA3-9DD7-405E-BE06-F5CF919ABD30}|src\\TodoApp.WebApi\\TodoApp.WebApi.csproj|solutionrelative:src\\todoapp.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6BDEA3-9DD7-405E-BE06-F5CF919ABD30}|src\\TodoApp.WebApi\\TodoApp.WebApi.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F6BDEA3-9DD7-405E-BE06-F5CF919ABD30}|src\\TodoApp.WebApi\\TodoApp.WebApi.csproj|solutionrelative:src\\todoapp.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC76FC03-BEBD-451F-A327-2FAF20DD4DC9}|src\\TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.infrastructure\\services\\bcryptpasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC76FC03-BEBD-451F-A327-2FAF20DD4DC9}|src\\TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|solutionrelative:src\\todoapp.infrastructure\\services\\bcryptpasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC76FC03-BEBD-451F-A327-2FAF20DD4DC9}|src\\TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.infrastructure\\repositories\\efcoreuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC76FC03-BEBD-451F-A327-2FAF20DD4DC9}|src\\TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|solutionrelative:src\\todoapp.infrastructure\\repositories\\efcoreuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC76FC03-BEBD-451F-A327-2FAF20DD4DC9}|src\\TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.infrastructure\\repositories\\efcoretodolistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC76FC03-BEBD-451F-A327-2FAF20DD4DC9}|src\\TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|solutionrelative:src\\todoapp.infrastructure\\repositories\\efcoretodolistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC76FC03-BEBD-451F-A327-2FAF20DD4DC9}|src\\TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.infrastructure\\repositories\\efcoretodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC76FC03-BEBD-451F-A327-2FAF20DD4DC9}|src\\TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|solutionrelative:src\\todoapp.infrastructure\\repositories\\efcoretodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC76FC03-BEBD-451F-A327-2FAF20DD4DC9}|src\\TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.infrastructure\\migrations\\20250806102558_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC76FC03-BEBD-451F-A327-2FAF20DD4DC9}|src\\TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|solutionrelative:src\\todoapp.infrastructure\\migrations\\20250806102558_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC76FC03-BEBD-451F-A327-2FAF20DD4DC9}|src\\TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.infrastructure\\migrations\\20250806135211_add_todolist_todos_relation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC76FC03-BEBD-451F-A327-2FAF20DD4DC9}|src\\TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|solutionrelative:src\\todoapp.infrastructure\\migrations\\20250806135211_add_todolist_todos_relation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC76FC03-BEBD-451F-A327-2FAF20DD4DC9}|src\\TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.infrastructure\\migrations\\todoappdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC76FC03-BEBD-451F-A327-2FAF20DD4DC9}|src\\TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|solutionrelative:src\\todoapp.infrastructure\\migrations\\todoappdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC76FC03-BEBD-451F-A327-2FAF20DD4DC9}|src\\TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.infrastructure\\dbcontext\\todoappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC76FC03-BEBD-451F-A327-2FAF20DD4DC9}|src\\TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|solutionrelative:src\\todoapp.infrastructure\\dbcontext\\todoappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C57DFDA-1321-4D9F-83FE-F15F18BA4C14}|src\\TodoApp.Application\\TodoApp.Application.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.application\\services\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C57DFDA-1321-4D9F-83FE-F15F18BA4C14}|src\\TodoApp.Application\\TodoApp.Application.csproj|solutionrelative:src\\todoapp.application\\services\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C57DFDA-1321-4D9F-83FE-F15F18BA4C14}|src\\TodoApp.Application\\TodoApp.Application.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.application\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C57DFDA-1321-4D9F-83FE-F15F18BA4C14}|src\\TodoApp.Application\\TodoApp.Application.csproj|solutionrelative:src\\todoapp.application\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C57DFDA-1321-4D9F-83FE-F15F18BA4C14}|src\\TodoApp.Application\\TodoApp.Application.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.application\\mappers\\todomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C57DFDA-1321-4D9F-83FE-F15F18BA4C14}|src\\TodoApp.Application\\TodoApp.Application.csproj|solutionrelative:src\\todoapp.application\\mappers\\todomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C57DFDA-1321-4D9F-83FE-F15F18BA4C14}|src\\TodoApp.Application\\TodoApp.Application.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.application\\dtos\\todolist\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C57DFDA-1321-4D9F-83FE-F15F18BA4C14}|src\\TodoApp.Application\\TodoApp.Application.csproj|solutionrelative:src\\todoapp.application\\dtos\\todolist\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C57DFDA-1321-4D9F-83FE-F15F18BA4C14}|src\\TodoApp.Application\\TodoApp.Application.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.application\\dtos\\todolist\\createtodolistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C57DFDA-1321-4D9F-83FE-F15F18BA4C14}|src\\TodoApp.Application\\TodoApp.Application.csproj|solutionrelative:src\\todoapp.application\\dtos\\todolist\\createtodolistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C57DFDA-1321-4D9F-83FE-F15F18BA4C14}|src\\TodoApp.Application\\TodoApp.Application.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.application\\dtos\\todolist\\createtododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C57DFDA-1321-4D9F-83FE-F15F18BA4C14}|src\\TodoApp.Application\\TodoApp.Application.csproj|solutionrelative:src\\todoapp.application\\dtos\\todolist\\createtododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DE5493-3CDE-4702-95DA-A70A68AECA0B}|src\\TodoApp.Domain\\TodoApp.Domain.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.domain\\aggregate\\todolistaggregate\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DE5493-3CDE-4702-95DA-A70A68AECA0B}|src\\TodoApp.Domain\\TodoApp.Domain.csproj|solutionrelative:src\\todoapp.domain\\aggregate\\todolistaggregate\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DE5493-3CDE-4702-95DA-A70A68AECA0B}|src\\TodoApp.Domain\\TodoApp.Domain.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.domain\\aggregate\\useraggregate\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DE5493-3CDE-4702-95DA-A70A68AECA0B}|src\\TodoApp.Domain\\TodoApp.Domain.csproj|solutionrelative:src\\todoapp.domain\\aggregate\\useraggregate\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DE5493-3CDE-4702-95DA-A70A68AECA0B}|src\\TodoApp.Domain\\TodoApp.Domain.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.domain\\aggregate\\todolistaggregate\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DE5493-3CDE-4702-95DA-A70A68AECA0B}|src\\TodoApp.Domain\\TodoApp.Domain.csproj|solutionrelative:src\\todoapp.domain\\aggregate\\todolistaggregate\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DE5493-3CDE-4702-95DA-A70A68AECA0B}|src\\TodoApp.Domain\\TodoApp.Domain.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.domain\\valueobjects\\username.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DE5493-3CDE-4702-95DA-A70A68AECA0B}|src\\TodoApp.Domain\\TodoApp.Domain.csproj|solutionrelative:src\\todoapp.domain\\valueobjects\\username.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DE5493-3CDE-4702-95DA-A70A68AECA0B}|src\\TodoApp.Domain\\TodoApp.Domain.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.domain\\valueobjects\\title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DE5493-3CDE-4702-95DA-A70A68AECA0B}|src\\TodoApp.Domain\\TodoApp.Domain.csproj|solutionrelative:src\\todoapp.domain\\valueobjects\\title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DE5493-3CDE-4702-95DA-A70A68AECA0B}|src\\TodoApp.Domain\\TodoApp.Domain.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.domain\\valueobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DE5493-3CDE-4702-95DA-A70A68AECA0B}|src\\TodoApp.Domain\\TodoApp.Domain.csproj|solutionrelative:src\\todoapp.domain\\valueobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DE5493-3CDE-4702-95DA-A70A68AECA0B}|src\\TodoApp.Domain\\TodoApp.Domain.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.domain\\valueobjects\\duedate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DE5493-3CDE-4702-95DA-A70A68AECA0B}|src\\TodoApp.Domain\\TodoApp.Domain.csproj|solutionrelative:src\\todoapp.domain\\valueobjects\\duedate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DE5493-3CDE-4702-95DA-A70A68AECA0B}|src\\TodoApp.Domain\\TodoApp.Domain.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.domain\\valueobjects\\description.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DE5493-3CDE-4702-95DA-A70A68AECA0B}|src\\TodoApp.Domain\\TodoApp.Domain.csproj|solutionrelative:src\\todoapp.domain\\valueobjects\\description.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DE5493-3CDE-4702-95DA-A70A68AECA0B}|src\\TodoApp.Domain\\TodoApp.Domain.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.domain\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DE5493-3CDE-4702-95DA-A70A68AECA0B}|src\\TodoApp.Domain\\TodoApp.Domain.csproj|solutionrelative:src\\todoapp.domain\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DE5493-3CDE-4702-95DA-A70A68AECA0B}|src\\TodoApp.Domain\\TodoApp.Domain.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.domain\\repositories\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DE5493-3CDE-4702-95DA-A70A68AECA0B}|src\\TodoApp.Domain\\TodoApp.Domain.csproj|solutionrelative:src\\todoapp.domain\\repositories\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DE5493-3CDE-4702-95DA-A70A68AECA0B}|src\\TodoApp.Domain\\TodoApp.Domain.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.domain\\repositories\\itodolistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DE5493-3CDE-4702-95DA-A70A68AECA0B}|src\\TodoApp.Domain\\TodoApp.Domain.csproj|solutionrelative:src\\todoapp.domain\\repositories\\itodolistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C57DFDA-1321-4D9F-83FE-F15F18BA4C14}|src\\TodoApp.Application\\TodoApp.Application.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.application\\mappers\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C57DFDA-1321-4D9F-83FE-F15F18BA4C14}|src\\TodoApp.Application\\TodoApp.Application.csproj|solutionrelative:src\\todoapp.application\\mappers\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C57DFDA-1321-4D9F-83FE-F15F18BA4C14}|src\\TodoApp.Application\\TodoApp.Application.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.application\\mappers\\todolistmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C57DFDA-1321-4D9F-83FE-F15F18BA4C14}|src\\TodoApp.Application\\TodoApp.Application.csproj|solutionrelative:src\\todoapp.application\\mappers\\todolistmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C57DFDA-1321-4D9F-83FE-F15F18BA4C14}|src\\TodoApp.Application\\TodoApp.Application.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C57DFDA-1321-4D9F-83FE-F15F18BA4C14}|src\\TodoApp.Application\\TodoApp.Application.csproj|solutionrelative:src\\todoapp.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C57DFDA-1321-4D9F-83FE-F15F18BA4C14}|src\\TodoApp.Application\\TodoApp.Application.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.application\\services\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C57DFDA-1321-4D9F-83FE-F15F18BA4C14}|src\\TodoApp.Application\\TodoApp.Application.csproj|solutionrelative:src\\todoapp.application\\services\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC76FC03-BEBD-451F-A327-2FAF20DD4DC9}|src\\TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|c:\\users\\esoes\\desktop\\todoapp-with-ddd-and-clean-architecture-main\\todoapp-with-ddd-and-clean-architecture-main\\src\\todoapp.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC76FC03-BEBD-451F-A327-2FAF20DD4DC9}|src\\TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|solutionrelative:src\\todoapp.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebMvc\\Views\\User\\Register.cshtml",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "src\\TodoApp.WebMvc\\Views\\User\\Register.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T14:11:36.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebMvc\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "src\\TodoApp.WebMvc\\Views\\User\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T14:11:21.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Views\\User\\Profile.cshtml",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebMvc\\Views\\User\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Views\\User\\Profile.cshtml",
+              "RelativeToolTip": "src\\TodoApp.WebMvc\\Views\\User\\Profile.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T14:11:21.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Views\\TodoList\\Index.cshtml",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebMvc\\Views\\TodoList\\Index.cshtml",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Views\\TodoList\\Index.cshtml",
+              "RelativeToolTip": "src\\TodoApp.WebMvc\\Views\\TodoList\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T14:11:13.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Views\\TodoList\\Details.cshtml",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebMvc\\Views\\TodoList\\Details.cshtml",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Views\\TodoList\\Details.cshtml",
+              "RelativeToolTip": "src\\TodoApp.WebMvc\\Views\\TodoList\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T14:10:59.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Views\\TodoList\\Edit.cshtml",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebMvc\\Views\\TodoList\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Views\\TodoList\\Edit.cshtml",
+              "RelativeToolTip": "src\\TodoApp.WebMvc\\Views\\TodoList\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T14:10:58.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Views\\TodoList\\Delete.cshtml",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebMvc\\Views\\TodoList\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Views\\TodoList\\Delete.cshtml",
+              "RelativeToolTip": "src\\TodoApp.WebMvc\\Views\\TodoList\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T14:10:51.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Views\\TodoList\\Create.cshtml",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebMvc\\Views\\TodoList\\Create.cshtml",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Views\\TodoList\\Create.cshtml",
+              "RelativeToolTip": "src\\TodoApp.WebMvc\\Views\\TodoList\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T14:10:44.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Views\\Todo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebMvc\\Views\\Todo\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Views\\Todo\\Edit.cshtml",
+              "RelativeToolTip": "src\\TodoApp.WebMvc\\Views\\Todo\\Edit.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T14:10:29.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Views\\Todo\\Create.cshtml",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebMvc\\Views\\Todo\\Create.cshtml",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Views\\Todo\\Create.cshtml",
+              "RelativeToolTip": "src\\TodoApp.WebMvc\\Views\\Todo\\Create.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T14:10:20.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebMvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "src\\TodoApp.WebMvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T14:10:16.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebMvc\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "src\\TodoApp.WebMvc\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T14:10:14.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebMvc\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "src\\TodoApp.WebMvc\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T14:10:10.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Program.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebMvc\\Program.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Program.cs",
+              "RelativeToolTip": "src\\TodoApp.WebMvc\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T14:08:54.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TodoListApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Services\\TodoListApiClient.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebMvc\\Services\\TodoListApiClient.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Services\\TodoListApiClient.cs",
+              "RelativeToolTip": "src\\TodoApp.WebMvc\\Services\\TodoListApiClient.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:45:55.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TodoApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Services\\TodoApiClient.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebMvc\\Services\\TodoApiClient.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Services\\TodoApiClient.cs",
+              "RelativeToolTip": "src\\TodoApp.WebMvc\\Services\\TodoApiClient.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:45:45.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Models\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebMvc\\Models\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Models\\UserViewModel.cs*",
+              "RelativeToolTip": "src\\TodoApp.WebMvc\\Models\\UserViewModel.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:29:19.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpdateTodoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Models\\UpdateTodoViewModel.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebMvc\\Models\\UpdateTodoViewModel.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Models\\UpdateTodoViewModel.cs",
+              "RelativeToolTip": "src\\TodoApp.WebMvc\\Models\\UpdateTodoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:29:11.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateTodoListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Models\\UpdateTodoListViewModel.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebMvc\\Models\\UpdateTodoListViewModel.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Models\\UpdateTodoListViewModel.cs",
+              "RelativeToolTip": "src\\TodoApp.WebMvc\\Models\\UpdateTodoListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:29:03.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TodoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Models\\TodoViewModel.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebMvc\\Models\\TodoViewModel.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Models\\TodoViewModel.cs*",
+              "RelativeToolTip": "src\\TodoApp.WebMvc\\Models\\TodoViewModel.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:28:54.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TodoListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Models\\TodoListViewModel.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebMvc\\Models\\TodoListViewModel.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Models\\TodoListViewModel.cs",
+              "RelativeToolTip": "src\\TodoApp.WebMvc\\Models\\TodoListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:28:47.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebMvc\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "src\\TodoApp.WebMvc\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:28:38.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebMvc\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "src\\TodoApp.WebMvc\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:28:30.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebMvc\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "src\\TodoApp.WebMvc\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:28:28.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateTodoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Models\\CreateTodoViewModel.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebMvc\\Models\\CreateTodoViewModel.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Models\\CreateTodoViewModel.cs",
+              "RelativeToolTip": "src\\TodoApp.WebMvc\\Models\\CreateTodoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:28:19.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreateTodoListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Models\\CreateTodoListViewModel.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebMvc\\Models\\CreateTodoListViewModel.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Models\\CreateTodoListViewModel.cs",
+              "RelativeToolTip": "src\\TodoApp.WebMvc\\Models\\CreateTodoListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:28:10.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebMvc\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Controllers\\UserController.cs",
+              "RelativeToolTip": "src\\TodoApp.WebMvc\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:27:59.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TodoListController.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Controllers\\TodoListController.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebMvc\\Controllers\\TodoListController.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Controllers\\TodoListController.cs",
+              "RelativeToolTip": "src\\TodoApp.WebMvc\\Controllers\\TodoListController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:27:51.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebMvc\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "src\\TodoApp.WebMvc\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:27:41.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebMvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "src\\TodoApp.WebMvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:27:35.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\TodoApp.WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-19T11:39:23.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "src\\TodoApp.WebApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T11:16:01.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TodoListController.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebApi\\Controllers\\TodoListController.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebApi\\Controllers\\TodoListController.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebApi\\Controllers\\TodoListController.cs",
+              "RelativeToolTip": "src\\TodoApp.WebApi\\Controllers\\TodoListController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T11:15:52.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebApi\\appsettings.Development.json",
+              "RelativeToolTip": "src\\TodoApp.WebApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-19T10:10:42.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebApi\\appsettings.json",
+              "RelativeToolTip": "src\\TodoApp.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-19T10:10:38.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EfCoreTodoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Infrastructure\\Repositories\\EfCoreTodoRepository.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.Infrastructure\\Repositories\\EfCoreTodoRepository.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Infrastructure\\Repositories\\EfCoreTodoRepository.cs",
+              "RelativeToolTip": "src\\TodoApp.Infrastructure\\Repositories\\EfCoreTodoRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:04:59.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EfCoreTodoListRepository.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Infrastructure\\Repositories\\EfCoreTodoListRepository.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.Infrastructure\\Repositories\\EfCoreTodoListRepository.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Infrastructure\\Repositories\\EfCoreTodoListRepository.cs",
+              "RelativeToolTip": "src\\TodoApp.Infrastructure\\Repositories\\EfCoreTodoListRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:04:55.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20250806135211_Add_TodoList_Todos_Relation.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Infrastructure\\Migrations\\20250806135211_Add_TodoList_Todos_Relation.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.Infrastructure\\Migrations\\20250806135211_Add_TodoList_Todos_Relation.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Infrastructure\\Migrations\\20250806135211_Add_TodoList_Todos_Relation.cs",
+              "RelativeToolTip": "src\\TodoApp.Infrastructure\\Migrations\\20250806135211_Add_TodoList_Todos_Relation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:04:40.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "TodoAppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Infrastructure\\Migrations\\TodoAppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.Infrastructure\\Migrations\\TodoAppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Infrastructure\\Migrations\\TodoAppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "src\\TodoApp.Infrastructure\\Migrations\\TodoAppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:04:40.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20250806102558_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Infrastructure\\Migrations\\20250806102558_InitialCreate.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.Infrastructure\\Migrations\\20250806102558_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Infrastructure\\Migrations\\20250806102558_InitialCreate.cs",
+              "RelativeToolTip": "src\\TodoApp.Infrastructure\\Migrations\\20250806102558_InitialCreate.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAkwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:04:36.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ITodoService.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Application\\Services\\ITodoService.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.Application\\Services\\ITodoService.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Application\\Services\\ITodoService.cs",
+              "RelativeToolTip": "src\\TodoApp.Application\\Services\\ITodoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T20:55:29.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "TodoService.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Application\\Services\\TodoService.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.Application\\Services\\TodoService.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Application\\Services\\TodoService.cs",
+              "RelativeToolTip": "src\\TodoApp.Application\\Services\\TodoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T20:55:19.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "TodoDto.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Application\\DTOs\\TodoList\\TodoDto.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.Application\\DTOs\\TodoList\\TodoDto.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Application\\DTOs\\TodoList\\TodoDto.cs",
+              "RelativeToolTip": "src\\TodoApp.Application\\DTOs\\TodoList\\TodoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T20:52:36.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CreateTodoListDto.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Application\\DTOs\\TodoList\\CreateTodoListDto.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.Application\\DTOs\\TodoList\\CreateTodoListDto.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Application\\DTOs\\TodoList\\CreateTodoListDto.cs",
+              "RelativeToolTip": "src\\TodoApp.Application\\DTOs\\TodoList\\CreateTodoListDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T20:52:32.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CreateTodoDto.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Application\\DTOs\\TodoList\\CreateTodoDto.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.Application\\DTOs\\TodoList\\CreateTodoDto.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Application\\DTOs\\TodoList\\CreateTodoDto.cs",
+              "RelativeToolTip": "src\\TodoApp.Application\\DTOs\\TodoList\\CreateTodoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T20:52:29.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Username.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Domain\\ValueObjects\\Username.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.Domain\\ValueObjects\\Username.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Domain\\ValueObjects\\Username.cs",
+              "RelativeToolTip": "src\\TodoApp.Domain\\ValueObjects\\Username.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T18:26:14.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Title.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Domain\\ValueObjects\\Title.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.Domain\\ValueObjects\\Title.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Domain\\ValueObjects\\Title.cs",
+              "RelativeToolTip": "src\\TodoApp.Domain\\ValueObjects\\Title.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T18:26:06.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Domain\\ValueObjects\\Email.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.Domain\\ValueObjects\\Email.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Domain\\ValueObjects\\Email.cs",
+              "RelativeToolTip": "src\\TodoApp.Domain\\ValueObjects\\Email.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T18:25:58.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DueDate.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Domain\\ValueObjects\\DueDate.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.Domain\\ValueObjects\\DueDate.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Domain\\ValueObjects\\DueDate.cs",
+              "RelativeToolTip": "src\\TodoApp.Domain\\ValueObjects\\DueDate.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T18:25:50.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Description.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Domain\\ValueObjects\\Description.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.Domain\\ValueObjects\\Description.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Domain\\ValueObjects\\Description.cs",
+              "RelativeToolTip": "src\\TodoApp.Domain\\ValueObjects\\Description.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T18:25:42.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Domain\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.Domain\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Domain\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "src\\TodoApp.Domain\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T18:25:33.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ITodoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Domain\\Repositories\\ITodoRepository.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.Domain\\Repositories\\ITodoRepository.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Domain\\Repositories\\ITodoRepository.cs",
+              "RelativeToolTip": "src\\TodoApp.Domain\\Repositories\\ITodoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T18:25:24.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ITodoListRepository.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Domain\\Repositories\\ITodoListRepository.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.Domain\\Repositories\\ITodoListRepository.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Domain\\Repositories\\ITodoListRepository.cs",
+              "RelativeToolTip": "src\\TodoApp.Domain\\Repositories\\ITodoListRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T18:25:14.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "TodoList.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Domain\\Aggregate\\TodoListAggregate\\TodoList.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.Domain\\Aggregate\\TodoListAggregate\\TodoList.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Domain\\Aggregate\\TodoListAggregate\\TodoList.cs",
+              "RelativeToolTip": "src\\TodoApp.Domain\\Aggregate\\TodoListAggregate\\TodoList.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwDAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T17:53:22.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Domain\\Aggregate\\TodoListAggregate\\Todo.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.Domain\\Aggregate\\TodoListAggregate\\Todo.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Domain\\Aggregate\\TodoListAggregate\\Todo.cs",
+              "RelativeToolTip": "src\\TodoApp.Domain\\Aggregate\\TodoListAggregate\\Todo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T17:53:03.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebApi\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebApi\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebApi\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "src\\TodoApp.WebApi\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAuwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T13:46:51.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Services\\UserApiClient.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebMvc\\Services\\UserApiClient.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Services\\UserApiClient.cs",
+              "RelativeToolTip": "src\\TodoApp.WebMvc\\Services\\UserApiClient.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAmwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T13:23:21.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "TodoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Application\\Mappers\\TodoMapper.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.Application\\Mappers\\TodoMapper.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Application\\Mappers\\TodoMapper.cs",
+              "RelativeToolTip": "src\\TodoApp.Application\\Mappers\\TodoMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T13:19:12.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "UserMapper.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Application\\Mappers\\UserMapper.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.Application\\Mappers\\UserMapper.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Application\\Mappers\\UserMapper.cs",
+              "RelativeToolTip": "src\\TodoApp.Application\\Mappers\\UserMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T13:19:11.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "TodoListMapper.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Application\\Mappers\\TodoListMapper.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.Application\\Mappers\\TodoListMapper.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Application\\Mappers\\TodoListMapper.cs",
+              "RelativeToolTip": "src\\TodoApp.Application\\Mappers\\TodoListMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T13:19:08.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Domain\\Aggregate\\UserAggregate\\User.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.Domain\\Aggregate\\UserAggregate\\User.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Domain\\Aggregate\\UserAggregate\\User.cs",
+              "RelativeToolTip": "src\\TodoApp.Domain\\Aggregate\\UserAggregate\\User.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwD0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T13:17:38.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Application\\Services\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.Application\\Services\\IPasswordHasher.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Application\\Services\\IPasswordHasher.cs",
+              "RelativeToolTip": "src\\TodoApp.Application\\Services\\IPasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T13:17:34.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\TodoApp.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T13:16:13.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Views\\Todo\\Index.cshtml",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebMvc\\Views\\Todo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebMvc\\Views\\Todo\\Index.cshtml",
+              "RelativeToolTip": "src\\TodoApp.WebMvc\\Views\\Todo\\Index.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAUwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T13:03:56.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EfCoreUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Infrastructure\\Repositories\\EfCoreUserRepository.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.Infrastructure\\Repositories\\EfCoreUserRepository.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Infrastructure\\Repositories\\EfCoreUserRepository.cs",
+              "RelativeToolTip": "src\\TodoApp.Infrastructure\\Repositories\\EfCoreUserRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T11:52:27.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.WebApi\\Program.cs",
+              "RelativeToolTip": "src\\TodoApp.WebApi\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T11:52:15.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BcryptPasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Infrastructure\\Services\\BcryptPasswordHasher.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.Infrastructure\\Services\\BcryptPasswordHasher.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Infrastructure\\Services\\BcryptPasswordHasher.cs",
+              "RelativeToolTip": "src\\TodoApp.Infrastructure\\Services\\BcryptPasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T11:52:01.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "TodoAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Infrastructure\\DbContext\\TodoAppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.Infrastructure\\DbContext\\TodoAppDbContext.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Infrastructure\\DbContext\\TodoAppDbContext.cs",
+              "RelativeToolTip": "src\\TodoApp.Infrastructure\\DbContext\\TodoAppDbContext.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T11:50:16.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "src\\TodoApp.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "src\\TodoApp.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBZwAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T11:44:15.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

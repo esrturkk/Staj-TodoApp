@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "src\\TodoApp.WebApi\\TodoApp.WebApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "src\\TodoApp.WebMvc\\TodoApp.WebMvc.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

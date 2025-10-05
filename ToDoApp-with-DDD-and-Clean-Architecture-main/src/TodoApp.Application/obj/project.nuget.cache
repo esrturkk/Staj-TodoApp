@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E0LRKtwv868=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\esoes\\Desktop\\ToDoApp-with-DDD-and-Clean-Architecture-main\\ToDoApp-with-DDD-and-Clean-Architecture-main\\src\\TodoApp.Application\\TodoApp.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\esoes\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

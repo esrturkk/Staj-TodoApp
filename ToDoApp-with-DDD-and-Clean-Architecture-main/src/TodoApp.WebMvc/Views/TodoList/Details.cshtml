@@ -1,0 +1,12 @@
+﻿@model TodoApp.WebMvc.Models.TodoListViewModel
+
+<h2>Todo Listesi Detayı</h2>
+
+<div>
+    <h4>@Model.Title</h4>
+    <p>@Model.Description</p>
+    <p>Oluşturulma Tarihi: @Model.CreatedAt</p>
+    <p>Güncellenme Tarihi: @Model.UpdatedAt</p>
+</div>
+
+<a asp-action="Index" class="btn btn-secondary">Geri Dön</a>
